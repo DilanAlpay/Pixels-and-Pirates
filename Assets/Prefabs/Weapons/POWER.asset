@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80a17d54ed6d3de45b04c2746ce4f6ec, type: 3}
+  m_Name: POWER
+  m_EditorClassIdentifier: 
+  positive: {fileID: 11400000, guid: c2fc5d38131a93d42b5bb79cf1f217a6, type: 2}
+  negative: {fileID: 11400000, guid: 43566c99c83040847864ee7e8e3e32b2, type: 2}
+  icon: {fileID: 1280773056455411436, guid: 321300eb4adccf645966a38edbf7992c, type: 3}

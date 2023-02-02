@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8b7db8edb4c23f448a11dfb9cd6de959
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Typoster Outline
+  fontNames:
+  - Typoster Outline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 059477ce01a8fa941b133bf4ac7a45e6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

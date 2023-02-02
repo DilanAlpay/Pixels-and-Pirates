@@ -1,0 +1,156 @@
+1/25 Patrick says the boat cannot attack
+7/15 Enemies not spawn
+
+IDEAS
+Ice grenades
+pick up food to increase the power of your next attack with this weapon... maybe it's a super burp? idk
+parrot that attacks enemies
+
+ENEMIES
+Every Island has set positions where enemies will spawn. There are PREMADE SPAWNPOINTS
+The enemies that those points spawn are random based on the Archipelago's rarity system
+
+There is only one of each for every Archipelago. Once you buy it you do not get to buy a second one. 
+1500
+
+Melee Ideas
+	Standard Sword with two Bonuses
+	Ice Sword that freezes enemies
+	Flail that spins in all directions
+	Dagger with short range but it has a chance to do extra damage
+	sword can spin around
+
+Ranged Ideas
+	Standard gun with two Bonuses
+	Ice Gun that freezes enemies
+	Homing Gun
+	Laser
+	Triple Shot
+	Bomb Cannon
+
+
+Play as the Polar Bear
+Enemies need to show damage and take a little bit of knockback based on the melee weapon's force
+Boat that takes you between islands
+8 Islands
+1 Boss Island
+Fight with the Rival Captain (Maybe a specific arctic boss?)
+Taking over the Rival Captain's ship completes the archipelago
+Treasures that give you bonuses
+Ship Shop (turtle)
+Dangers in the ocean that can hurt your boat
+Penguin enemy with an ice shield
+Flying snow owl enemy
+Standard Fox enemies both melee and ranged
+Walrus enemy that can attack from the water
+Jumping artic hare enemy
+A cave with Items in it that you have to fight your way out of
+A set of "special islands" where one is randomly spawned in the Pelago
+Magical Treasures that give you special abilities
+A balanced money system
+New Art for EVERYTHING
+Digging up objects
+Pets that help you out
+
+1. Keep working on new items and new enemies that will go into your game
+
+2. Put the stuff we have just made into the game
+
+Put in work so that switch things is easier
+Maybe make an in-game command that sets everything for us
+
+
+[What it is for melee / what it is for ranger]
+
+Health
+Player Speed
+size [HOW WIDE / BULLET SIZE]	1
+dist [HOW FAR / BULLET RANGE]	1
+power [ HOW MUCH DAMAGE ]		3
+rate [ HOW QUICKLY YOU CAN USE YOUR WEAPON ] .5f (backwards)
+force [KNOCKBACK / BULLET SPEED] 10
+
+It should take 3 hits to kill an enemy
+
+What is strong? Your default SWORD or your default GUN?
+
+How many sword hits will it take to kill a basic enemy?
+2	=	5
+
+How many bullets will it take to kill a basic enemy?
+4	=	3
+
+
+How many enemies will be spawned when you activate the trap in the cave?
+20
+
+Do you fight all of the enemies at once or do they come in waves?
+w
+
+How many wvaes?
+3 waves of 10
+
+if patrick brought his controller he can use his. Otherwise, he can use mine.
+
+if(pat.hasController)
+{
+	pat.Use(pat.controller);
+}
+else
+{
+	pat.Use(dilan.controller);
+}
+
+pat.Use(pat.controller ? pat.controller : dilan.controller);
+
+
+//PROMPT
+if it is more than 65 degrees outside I want you to wear shorts. Otherwise wear jeans.
+
+//Written using IF STATEMENTS
+if(temp > 65)
+{
+	myPants = shorts;
+}
+else
+{
+	myPants = jeans;
+}
+
+//WRITTEN USING THE ? OPERATOR
+myPants = temp > 65 ? shorts : jeans;
+
+
+If the price of the van is less than $20,000 then buy it. Otherwise buy the car.
+
+if(van.price < 20000)
+{
+	purchase = van;
+}
+else
+{
+	purchase = car;
+}
+
+//Go from here
+purchase = price < 20000? van:car;
+
+
+name
+patrick
+age
+40
+height
+5'6""
+whats on your head
+headset
+whats on your feet
+bed slippers
+whats in your mouth (besides teeth and tongue)
+null
+what you are sitting on
+chair
+what you are swimming in
+null
+what you are eating
+null

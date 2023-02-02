@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f5a80959b438cfc43892c70f8a749c47
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - health: {instanceID: 0}
+  - controller: {instanceID: 0}
+  - choice: {fileID: 7092223068851979719, guid: b3c73ad72efce5f4d80056efb719ad06,
+      type: 3}
+  - geo: {instanceID: 0}
+  - weapon1: {fileID: 11400000, guid: ab5af9098a362624ba9fa69d78770908, type: 2}
+  - weapon2: {fileID: 11400000, guid: 84aff57758bbc3341ac392af8392e220, type: 2}
+  - startingItem: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

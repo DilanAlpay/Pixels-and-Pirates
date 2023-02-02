@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Archipelago.unity
+    guid: 3e756ba697ea7284dac6fa983723e877
+  - enabled: 1
+    path: Assets/Scenes/Islands/i007.unity
+    guid: 6e01b1acf2f48414a986a490212e93b7
+  - enabled: 1
+    path: Assets/Scenes/Islands/i005.unity
+    guid: d3484c53577600f4bb2bc3709c415109
+  - enabled: 1
+    path: Assets/Scenes/Islands/i000.unity
+    guid: 02e9a941a2a4fc944a540f72d24559e5
+  - enabled: 1
+    path: Assets/Scenes/Islands/i006.unity
+    guid: 597696aec79f9e5408b61689e5cf1c06
+  - enabled: 1
+    path: Assets/Scenes/Islands/i004.unity
+    guid: 274acd168c68ebc44ac07076a191db7f
+  - enabled: 1
+    path: Assets/Scenes/Islands/i003.unity
+    guid: b6ba981fa18327442bb887905b86ac46
+  - enabled: 1
+    path: Assets/Scenes/Islands/i002.unity
+    guid: 3e1187280c239fe47a093d69468835f9
+  - enabled: 1
+    path: Assets/Scenes/Islands/c000.unity
+    guid: 4a47305ad131cf14eb59306bc4bc43ff
+  - enabled: 1
+    path: Assets/Scenes/Islands/i001.unity
+    guid: 6e3ac52f7947c6149939ade3dd2f68d0
+  - enabled: 1
+    path: Assets/Scenes/Islands/s000.unity
+    guid: 200c8f470262d3742adb9be92cbfd1a4
+  m_configObjects: {}

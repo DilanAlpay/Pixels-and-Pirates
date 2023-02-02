@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bfa4fd034dc6e94fb37bda4b46c713b, type: 3}
+  m_Name: Heart
+  m_EditorClassIdentifier: 
+  tile: {fileID: 11400000, guid: 8667c1706cfc8314083d2bdb17d88a21, type: 2}
+  obj: {fileID: 4239373068683600504, guid: d40a1c43ac568884bb384d2fcfd1c21b, type: 3}

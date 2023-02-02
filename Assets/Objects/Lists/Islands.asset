@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2fa42b028527b94ca3fd69bcbec2666, type: 3}
+  m_Name: Islands
+  m_EditorClassIdentifier: 
+  contents:
+  - {fileID: 102900000, guid: 6e01b1acf2f48414a986a490212e93b7, type: 3}
+  - {fileID: 102900000, guid: d3484c53577600f4bb2bc3709c415109, type: 3}
+  - {fileID: 102900000, guid: 02e9a941a2a4fc944a540f72d24559e5, type: 3}
+  - {fileID: 102900000, guid: 597696aec79f9e5408b61689e5cf1c06, type: 3}
+  - {fileID: 102900000, guid: 274acd168c68ebc44ac07076a191db7f, type: 3}
+  - {fileID: 102900000, guid: b6ba981fa18327442bb887905b86ac46, type: 3}
+  - {fileID: 102900000, guid: 3e1187280c239fe47a093d69468835f9, type: 3}
+  - {fileID: 102900000, guid: 6e3ac52f7947c6149939ade3dd2f68d0, type: 3}

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cf7a5b55bee7b1f40baa77143eee9bb1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Typoster
+  fontNames:
+  - Typoster
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7e8e163e6b9c0924a95deb747ac66480, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

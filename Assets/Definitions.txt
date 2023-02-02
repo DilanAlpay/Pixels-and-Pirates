@@ -1,0 +1,52 @@
+PROGRAMMING TERMS
+Instantiate: Create a copy
+Instance: A single copy of an object 
+Parent (noun): An Object that holds another Object
+Parent (verb): Make object be held
+MonoBehaviour: A script on an object physically in your game
+Casting: Turning one object into another
+private: Does not show in the inspector
+protected: private, but child classes can use it
+Collider: the part of an object you can touch
+Trigger: something you go inside of or walk through to activate
+Awake: First function called when the game starts. Called before START
+Radius: How far the center is from the edge of a CIRCLE
+Child Script: A more specific version of a parent script
+Parameters: what you need to give the function for it to work
+Dictionary: A List sorted by objects instead of by number
+Mod (%) : Used to tell if number is a multiple of another number
+Pool: Collection of all of the items you will ever need in your game that you take from and put back in
+? : Lets us write an if statement with two possible options in one line
+
+
+
+PIRATE GAME TERMS
+Weapon.cs:			Holds all of the data for a specific weapon
+WeaponInstance.cs:	The concrete use of a Weapon that exists when playing
+Weapon_Melee.cs
+Weapon_Range.cs
+
+A or a?
+If you are watching a TV show and there is a cat named Cat, the capitalization is the REVERSE in coding.
+
+Cat refers to the species, all of the fuzzy meowing animals
+
+cat refers to someone named cat. His name is cat the Cat.
+
+When defining it, it would look like
+Cat cat;
+Cat tom;
+Cat garfield;
+
+Student pat;
+Instructor dilan;
+
+dilan.Teach(Student); BAD CODE >:(
+dilan.Teach(pat); GOOD CODE! :D
+
+The Archipelago has:
+	A list of spots where the islands will be spawned
+	A guide telling it what to spawn
+	A layermask so it can find the boat
+	A size for its boxcasts
+	A list of sprites to fill in the map with

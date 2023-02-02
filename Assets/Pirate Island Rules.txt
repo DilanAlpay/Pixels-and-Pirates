@@ -1,0 +1,29 @@
+
+STATS
+An entitys stats are their stats + their weapons stats
+Player stats are buffs except health and speed, rest from weapon
+Enemy weapons are empty except type, abilities on entity
+Pets have no stats, only a weapon
+
+8 Standard Islands
+1 Boss Island
+5 Danger Zones
+1 Supply Island
+1 Shop Island
+1 Cave Island
+8 Empty Zones
+
+I put 1 apple in the box 4 times
+I put 1 apple in the box
+I put 1 apple in the box
+
+How many apples are in the box?
+6
+
+DANGEROUS objects are isolated
+BULLETS are dangerous objects connected to an Entity
+
+For enemies in the water...
+
+
+When these enemies are spawned they will be placed in pools of water that are already on the island

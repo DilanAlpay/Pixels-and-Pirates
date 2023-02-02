@@ -1,0 +1,1999 @@
+fileFormatVersion: 2
+guid: 58f7a2dbd15f6b343b1fd866b36d0ac7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2375692916380407830
+    second: Island Art_0
+  - first:
+      213: 3676800842567945098
+    second: Island Art_2
+  - first:
+      213: 6912432794126727044
+    second: Island Art_3
+  - first:
+      213: 6695956814642567183
+    second: Island Art_4
+  - first:
+      213: 1470325734677612047
+    second: Island Art_5
+  - first:
+      213: 7972738149369428645
+    second: Island Art_6
+  - first:
+      213: 1433573509915125699
+    second: Island Art_7
+  - first:
+      213: 2801101503040592164
+    second: Island Art_8
+  - first:
+      213: -1988257581893144446
+    second: Island Art_9
+  - first:
+      213: -5929031103168704443
+    second: Island Art_10
+  - first:
+      213: 4210715112998132229
+    second: Island Art_11
+  - first:
+      213: -6142138833199461389
+    second: Island Art_12
+  - first:
+      213: -8647973521276255039
+    second: Island Art_13
+  - first:
+      213: 2900495309127851892
+    second: Island Art_14
+  - first:
+      213: 5792886654407913937
+    second: Island Art_15
+  - first:
+      213: -7262426305129282708
+    second: Island Art_16
+  - first:
+      213: -7681914745322961107
+    second: Island Art_17
+  - first:
+      213: 6289179593128080889
+    second: Island Art_18
+  - first:
+      213: -2068523253074252434
+    second: Island Art_19
+  - first:
+      213: -2608389952541896866
+    second: Island Art_20
+  - first:
+      213: -6872527071702123836
+    second: Island Art_21
+  - first:
+      213: -307049709608002316
+    second: Island Art_22
+  - first:
+      213: 6717167415142181831
+    second: Island Art_23
+  - first:
+      213: 2112064688192939244
+    second: Island Art_24
+  - first:
+      213: -7712798863725526204
+    second: Island Art_25
+  - first:
+      213: 4507699537865687480
+    second: Island Art_26
+  - first:
+      213: -9158437118914497747
+    second: Island Art_27
+  - first:
+      213: -7062224182699138250
+    second: Island Art_28
+  - first:
+      213: -1869383374065557021
+    second: Island Art_29
+  - first:
+      213: -3788835267940144362
+    second: Island Art_30
+  - first:
+      213: -4262583547943156586
+    second: Island Art_31
+  - first:
+      213: 7151799495061100213
+    second: Island Art_32
+  - first:
+      213: 7960736568671538230
+    second: Island Art_33
+  - first:
+      213: -6988944203451946138
+    second: Island Art_34
+  - first:
+      213: 1882805591232076464
+    second: Island Art_35
+  - first:
+      213: -2702317756939520994
+    second: Island Art_36
+  - first:
+      213: 897400912058429955
+    second: Island Art_37
+  - first:
+      213: 1127826135262630455
+    second: Island Art_38
+  - first:
+      213: -9098238003919965359
+    second: Island Art_39
+  - first:
+      213: -2657995682378903181
+    second: Island Art_40
+  - first:
+      213: 3935438157875295014
+    second: Island Art_41
+  - first:
+      213: -4767196073440975289
+    second: Island Art_42
+  - first:
+      213: 386879231126609027
+    second: Island Art_43
+  - first:
+      213: -6668744684176251693
+    second: Island Art_44
+  - first:
+      213: -4903347434705181464
+    second: Island Art_45
+  - first:
+      213: 6837636403548516332
+    second: Island Art_46
+  - first:
+      213: -6986291160550777296
+    second: Island Art_47
+  - first:
+      213: -5973637269260846352
+    second: Island Art_48
+  - first:
+      213: -2615076639111667992
+    second: Island Art_49
+  - first:
+      213: 333637369834149981
+    second: Island Art_50
+  - first:
+      213: 6925036029388568742
+    second: Island Art_51
+  - first:
+      213: 5037553934271397482
+    second: Island Art_52
+  - first:
+      213: -3330770013722955906
+    second: Island Art_53
+  - first:
+      213: -620614215411533799
+    second: Island Art_54
+  - first:
+      213: 2530629243466841816
+    second: Island Art_55
+  - first:
+      213: 2862501576956202432
+    second: Island Art_56
+  - first:
+      213: 3721719655721280148
+    second: Island Art_57
+  - first:
+      213: -3686541442286109492
+    second: Island Art_58
+  - first:
+      213: -1730955680936719426
+    second: Island Art_59
+  - first:
+      213: 1848872216318078136
+    second: Island Art_60
+  - first:
+      213: -7063404386847630509
+    second: Island Art_61
+  - first:
+      213: 7422641182075890304
+    second: Island Art_62
+  - first:
+      213: 2331902891817443107
+    second: Island Art_63
+  - first:
+      213: 6666614105674677141
+    second: Island Art_64
+  - first:
+      213: 1157944130853489917
+    second: Island Art_65
+  - first:
+      213: 2185551647842363762
+    second: Island Art_66
+  - first:
+      213: -2815455195318974333
+    second: Island Art_67
+  - first:
+      213: 8234723458102204837
+    second: Island Art_68
+  - first:
+      213: 3582544071107316228
+    second: Island Art_69
+  - first:
+      213: 2000110704881201718
+    second: Island Art_70
+  - first:
+      213: -54868597005791661
+    second: Island Art_71
+  - first:
+      213: 5515777841016837079
+    second: Island Art_72
+  - first:
+      213: 4093101718609681103
+    second: Island Art_73
+  - first:
+      213: -2997705797016870705
+    second: Island Art_74
+  - first:
+      213: 4735496010621277319
+    second: Island Art_75
+  - first:
+      213: 7108235173052136902
+    second: Island Art_76
+  - first:
+      213: -3811876884397325363
+    second: Island Art_1
+  - first:
+      213: -1720584375001388419
+    second: Island Art_77
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Island Art_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9829101c7070e41af84f3c06796054
+      internalID: 2375692916380407830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cc62974671ff14fadc1cc663d82c16
+      internalID: 3676800842567945098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2783dc6dd7284fe4db660d3577cbe113
+      internalID: 6912432794126727044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be979c9fd146ee547bd4bcc8ba2fcb7c
+      internalID: 6695956814642567183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 31
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522c76d8c12b85441a3480e2bfb54885
+      internalID: 1470325734677612047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916fb046cea44854a90e186ae5d2d414
+      internalID: 7972738149369428645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa8845a3b45bad448dc57d6e714363f
+      internalID: 1433573509915125699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 31
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5bd9395a96d064cbf65223cbaf9a97
+      internalID: 2801101503040592164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 31
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a942237c732e843be2c1d69eefefc9
+      internalID: -1988257581893144446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bc316081cada343bbcc4a0af8ee1b1
+      internalID: -5929031103168704443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3837001be9f15cb4f8a36db6ddd60174
+      internalID: 4210715112998132229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 31
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1811144f7d54db74f8a01174db6945a6
+      internalID: -6142138833199461389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 31
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c119f6114580b5b48bb8255a03bc95ef
+      internalID: -8647973521276255039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715bc6efa1123f642b02578cc82b0ce3
+      internalID: 2900495309127851892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c011f6b02d7e3940851530d2b8177e4
+      internalID: 5792886654407913937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1a83266f9befc4e9ab8d3fcac71b47
+      internalID: -7262426305129282708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa272404e858dfb47b2e5d1352039ac5
+      internalID: -7681914745322961107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2ed5a126dbf8a4cb855b5037ff0876
+      internalID: 6289179593128080889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c84ef0a60a576e4ea03d232683b3854
+      internalID: -2068523253074252434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d62ef933a6a10458afdfc4ab731643
+      internalID: -2608389952541896866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 31
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ce0b8d67bb5a148aa0ed7d2b78d2cd
+      internalID: -6872527071702123836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 31
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdfcb0637f38294da1f416de1fe9b14
+      internalID: -307049709608002316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 31
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f62742ad8d2fb24c91e0051cf477ab5
+      internalID: 6717167415142181831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_24
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 31
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020fc0b70ca03bf4caad52ce4d19616f
+      internalID: 2112064688192939244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 31
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d488941d265bd154eb72f1b82a52a60a
+      internalID: -7712798863725526204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_26
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 31
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22823505dea23841a18d260e69699e1
+      internalID: 4507699537865687480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_27
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3e710f19e63c148b36d8ab9861694d
+      internalID: -9158437118914497747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_28
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 31
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4c0b284045c9f42813dc4bffdd49e3
+      internalID: -7062224182699138250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_29
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1f03880a561bb40b54996a4f6ea9d8
+      internalID: -1869383374065557021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925d2e4163160aa4db0fb24dc3f3671a
+      internalID: -3788835267940144362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337b3493d05bf1c4ab8bcf3f897c8356
+      internalID: -4262583547943156586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_32
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 20
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb887460c1694f4aacbc16a512d536f
+      internalID: 7151799495061100213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0e5ba930d689649af7592430a823b1
+      internalID: 7960736568671538230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_34
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff9472751b58e84cac0e4a796cfe5d9
+      internalID: -6988944203451946138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_35
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a80d548988916d45a3bf669d284bc3b
+      internalID: 1882805591232076464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_36
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 20
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81b104141a3c0b42abbdc29309ac5c4
+      internalID: -2702317756939520994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_37
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6e4677762ce174d93024a90ac77df0
+      internalID: 897400912058429955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 20
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5528731c79409d843a98cf9caddd4e5e
+      internalID: 1127826135262630455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 20
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724d2104f1fb7994692c811a75a1d799
+      internalID: -9098238003919965359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_40
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 18
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d23623cfbe93a74f82314b385fee5fb
+      internalID: -2657995682378903181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_41
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cbaca5c80a7644393408b8b445b943
+      internalID: 3935438157875295014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 20
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32ee0d31ae7bcf4aace8b5041b0f05a
+      internalID: -4767196073440975289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_43
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 20
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3d6edf3c11fea4c9f0be7c5865df51
+      internalID: 386879231126609027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_44
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 20
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15e606c47082f846b958ca858cfdc6b
+      internalID: -6668744684176251693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_45
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 20
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b9ccbb8fdf9d6499d4e080ff73ce2d
+      internalID: -4903347434705181464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_46
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838a85915e66fcc4a950f95137768bd0
+      internalID: 6837636403548516332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_47
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aded7c43982280e4c9771cf207a7f983
+      internalID: -6986291160550777296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_48
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8235d9f9f68c9914da501af3c46a3847
+      internalID: -5973637269260846352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_49
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 20
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f214553c76fa7b4c88c0eab0c9ce281
+      internalID: -2615076639111667992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_50
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 20
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2265c3eeff0a0349b584571002c6671
+      internalID: 333637369834149981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_51
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 18
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dc9c5942ef0094f9ba41a23ce58825
+      internalID: 6925036029388568742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_52
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ab9cecc6dc51b45b5fd79ac8f74837
+      internalID: 5037553934271397482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_53
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 9
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bebb9e6577313f43822598daade4c17
+      internalID: -3330770013722955906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_54
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 9
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34977e57d948d314b9588faebb3fea4a
+      internalID: -620614215411533799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_55
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69cbbe25be27f344ad97ed025fbca3b
+      internalID: 2530629243466841816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_56
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 9
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1617680b9bf131f40bc2d491099232ff
+      internalID: 2862501576956202432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_57
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade097acf23678e4197bb2570e82bed7
+      internalID: 3721719655721280148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_58
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6107416e491a5428e1360c801ae90a
+      internalID: -3686541442286109492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_59
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 9
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93b0f160cd011d40a745c10c9b1e9fa
+      internalID: -1730955680936719426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_60
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bc7ac3e8a8ae64f8ea57c4f4cb48a4
+      internalID: 1848872216318078136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_61
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 9
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421857f40f9ab3f44a1160e5cb65f63f
+      internalID: -7063404386847630509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_62
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 9
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85b734503bbaf74fb68b32813f8b9d3
+      internalID: 7422641182075890304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_63
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972d65128408b6742861ab74621b4c2e
+      internalID: 2331902891817443107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_64
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f694e1140c06d4b8cdd1b668051431
+      internalID: 6666614105674677141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_65
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 7
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb19f7c08fe0cc4cbafd36764b7dde2
+      internalID: 1157944130853489917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_66
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 7
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ef4679928935e4a8d38a47fdacefbb
+      internalID: 2185551647842363762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_67
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c82eb7bbb828b746a1654f1ff6c012d
+      internalID: -2815455195318974333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_68
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 9
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c18892505b36da4b8ee49fd8066b5a9
+      internalID: 8234723458102204837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_69
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab06a090cac03b4d9f39ffe104abf03
+      internalID: 3582544071107316228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_70
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7acb88c7a27194f9c38083b87d2220
+      internalID: 2000110704881201718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_71
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 9
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0b829f9d1810147a3719a78f5c9e6a
+      internalID: -54868597005791661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_72
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d9aad844ae27946940d456d84883a5
+      internalID: 5515777841016837079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_73
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 9
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaba14c57f5f5e24183f121755c7cffc
+      internalID: 4093101718609681103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_74
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95e7105ef0d20c41a3b320a00b59c31
+      internalID: -2997705797016870705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_75
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 9
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6a484539b4bf547962eab297391caf
+      internalID: 4735496010621277319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_76
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90287e4c2b4117b4da8e604ef49e69ff
+      internalID: 7108235173052136902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83098e1c805455a468284dd44b287700
+      internalID: -3811876884397325363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island Art_77
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ee81839cb1f70439cd321584773701
+      internalID: -1720584375001388419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 609fecf7bdd3cde41a55301a6f38e358, type: 3}
+  m_Name: Arctic Chest Treasures
+  m_EditorClassIdentifier: 
+  treasures:
+  - {fileID: 11400000, guid: 2b4ca4351380e27448a2000816179c9b, type: 2}
+  - {fileID: 11400000, guid: cb57b16e03a0b154cbbb2438cb1b6de5, type: 2}
+  - {fileID: 11400000, guid: 6a3306dae7d95fa4fae78459f01c4ab3, type: 2}
+  - {fileID: 11400000, guid: 50cf062274b844b4c9097d5c8bfd2b91, type: 2}
+  - {fileID: 11400000, guid: f1e446f1de8c46945ba0bdfbcdcf6b82, type: 2}
+  - {fileID: 11400000, guid: 9c6fb053d7d31f346b5c538b912c284b, type: 2}
+  - {fileID: 11400000, guid: c332161a1b0c29144a734ef56428158a, type: 2}

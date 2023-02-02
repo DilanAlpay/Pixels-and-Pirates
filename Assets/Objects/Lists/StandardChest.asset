@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0a472ae3dab3dd40953d2b6616cc88f, type: 3}
+  m_Name: StandardChest
+  m_EditorClassIdentifier: 
+  contents:
+  - {fileID: 536683583220595491, guid: edf53a94fa25acb4598a91da5cfc381e, type: 3}
+  - {fileID: 536683583220595491, guid: edf53a94fa25acb4598a91da5cfc381e, type: 3}
+  - {fileID: 536683583220595491, guid: edf53a94fa25acb4598a91da5cfc381e, type: 3}
+  - {fileID: 536683583220595491, guid: edf53a94fa25acb4598a91da5cfc381e, type: 3}
+  - {fileID: 536683583220595491, guid: edf53a94fa25acb4598a91da5cfc381e, type: 3}
+  - {fileID: 6056327700705341079, guid: d40a1c43ac568884bb384d2fcfd1c21b, type: 3}
+  - {fileID: 6056327700705341079, guid: d40a1c43ac568884bb384d2fcfd1c21b, type: 3}
+  - {fileID: 4887678348121802172, guid: 531ca1ca3f930924b9f88767cc53becc, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}

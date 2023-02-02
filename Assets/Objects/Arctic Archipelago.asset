@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69e4fce3dc5e9ca468c18ff9f64d6a72, type: 3}
+  m_Name: Arctic Archipelago
+  m_EditorClassIdentifier: 
+  islands:
+  - {fileID: 11400000, guid: 2232eeacca7bbcd45991cacdf91573ec, type: 2}
+  - {fileID: 11400000, guid: 6e8a502316ae777458d377b9657b7a31, type: 2}
+  - {fileID: 11400000, guid: e52e882775667ce42a05ee1c21aa9017, type: 2}
+  - {fileID: 11400000, guid: 6c026a73e5552a4438d1642d4d2b8ed7, type: 2}
+  - {fileID: 11400000, guid: 96b4f6332652fd04fa867946c5e238b0, type: 2}
+  - {fileID: 11400000, guid: 2997d513f46d22441a92b4f5ba614c27, type: 2}
+  - {fileID: 11400000, guid: d10e55f9e1dff6547ac49761e1ab3997, type: 2}
+  - {fileID: 11400000, guid: 3de9d6bec07f14c4a846cca721e85e8d, type: 2}
+  - {fileID: 11400000, guid: 2cda4b77c5fd1544b9a9de16d2427755, type: 2}
+  - {fileID: 11400000, guid: 6447724210742774aba11b1bf9d3e94d, type: 2}
+  chests: {fileID: 11400000, guid: 2458351a7104f6047b005132b135bd4f, type: 2}
+  challenge: {fileID: 11400000, guid: f711a7fe95125a4438d2804d99d45f45, type: 2}
+  shop: {fileID: 11400000, guid: dd106aac6580da04ea136e53878bda31, type: 2}
+  pet: {fileID: 11400000, guid: 1782492992d2558488e4bc5725775d27, type: 2}
+  waves: {fileID: 11400000, guid: b196f16094db5a848b929e8f93596b7a, type: 2}
+  chestValuable: {fileID: 2302952563616591126, guid: 75179d03f440aa24d9eddeb26f8e0328,
+    type: 3}
+  chestTreasure: {fileID: 1864516741017518182, guid: e878fe29e4e6a304c9dd237b96317b7d,
+    type: 3}
+  enemies: {fileID: 11400000, guid: ff8a88cdc08ddef43bd9b83059cc62cf, type: 2}

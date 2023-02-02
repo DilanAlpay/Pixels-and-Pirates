@@ -1,0 +1,80 @@
+how many people live in your house i
+your favorite color s
+your weight on a scale f
+how long it took you to complete a race f
+if you ate breakfast b
+The name of the sequel to shrek s "Shrek 2" "90210"
+The cost of a cheeseburger f
+how fast your character can run f
+if your character is jumping b
+your character's weapon s
+your gun's ammo i
+
+CookAnEgg()
+{
+	get an egg
+	crack it into a bowl
+	put it in the hot pan
+	cook it up
+}
+
+//This is your object, a VendingMachine
+VendingMachine vm;
+
+1. Name one property of the vending machine (what does it have)
+	slot
+	- snacks and drinks in it
+	- prices
+	- name, brand, pictures?
+	In Code:
+	vm.slot;
+2. Name one function of the vending machine (what does it do)
+	it give you snack or drinks
+	vm.GiveSnack(); vm.GiveDrink();
+3. What are the parameters for its functions (what do you give it)
+	money 
+	vm.GiveSnack(dollar);
+	- SELECTION 
+	vm.GiveSnack(b5, money);
+4. What is the return TYPE for its functions (what does it give you)
+	snacks or drinks
+
+	public Snack GiveSnack(Choice selection, Money money)
+
+
+Dog lucky;
+//Get his color property
+lucky.color;
+
+Customer pat;
+Restaurant arbys;
+
+1. What is a property of the CUSTOMER, what is something a customer has
+pat.money
+pat.order	//What you are going to be getting with your money
+2. What is a property of the RESTAURANT, what does Arby's have
+arbys.food
+arbys.menu
+
+
+matt's favorite color P
+matt.favoritecolor
+
+tony jumping in the air F
+tony.Jump()
+
+kimmy sneezing F
+	kimmy.Sneeze() 
+if robert is right handed P
+	robert.righthanded
+andy eating a slice of pizza F
+	andy.Eat(pizza)
+patrick playing a video game
+	patrick.Play(destiny)
+how old ed is
+	ed.age
+
+
+	
+
+	
